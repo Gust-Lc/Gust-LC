@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo Lucena! 👋
 
-<!--
-**Gust-Lc/Gust-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Futuro Engenheiro Software | Estudante de Análise e Desenvolvimento de Sistemas]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que eu utilizo no meu dia a dia ou que tenho experiência:
+
+- **Linguagens:** HTML, CSS, JavaScript, Python
+- **Frameworks/Bibliotecas:** Node.js
+- **Banco de Dados:** SQL Server
+- **Ferramentas/Outros:** Git, GitHub
+
+
+
+---
+
+### 📊 Estatísticas do Meu GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Lc&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Lc&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="180px" />
+</p>
+
+---

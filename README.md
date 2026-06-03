@@ -13,6 +13,10 @@ Aqui estão as tecnologias que eu utilizo no meu dia a dia ou que tenho experiê
 - **Banco de Dados:** SQL Server
 - **Ferramentas/Outros:** Git, GitHub
 
+<p align="left">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png](https://cdn-icons-png.flaticon.com/512/1197/1197396.png)" height="180px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png" height="130px" />
+</p>
 
 
 ---

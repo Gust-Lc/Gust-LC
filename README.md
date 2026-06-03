@@ -26,4 +26,4 @@ Aqui estão as tecnologias que eu utilizo no meu dia a dia ou que tenho experiê
 
 ---
 
-![Animação da Cobrinha](https://raw.githubusercontent.com/Gust-Lc/Gust-Lc/output/github-contribution-grid-snake.svg)
+![Animação da Cobrinha](https://raw.githubusercontent.com/Gust-Lc/Gust-Lc/output/github-contribution-grid-snake-dark.svg)

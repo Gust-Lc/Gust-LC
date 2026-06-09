@@ -6,7 +6,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Aqui estão as tecnologias que eu utilizo no meu dia a dia ou que tenho experiência:
+Aqui estão as tecnologias que eu utilizo no meu dia a dia ou que tenho - **mínima** - experiência:
 
 - **Linguagens:** HTML, CSS, JavaScript, Python
 - **Frameworks/Bibliotecas:** Node.js

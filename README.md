@@ -30,11 +30,10 @@ Aqui estão as tecnologias que eu utilizo no meu dia a dia ou que tenho - **mín
 
 ### 📊 Estatísticas do Meu GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Lc&show_icons=true&theme=radial" alt="Estatísticas do Gust-Lc" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Lc&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Lc&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Lc&layout=compact&theme=tokyonight" alt="Top Langs" height="195" />
 </p>
-
 ---
 
 ![Animação da Cobrinha](https://raw.githubusercontent.com/Gust-Lc/Gust-Lc/output/github-contribution-grid-snake-dark.svg)
